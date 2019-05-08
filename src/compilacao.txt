@@ -1,0 +1,3 @@
+cd para a pasta src:
+
+gcc -o ../reversi ../main.c estado.c jogada.c posicao.c commands.c saveNload.c game.c bot.c
