@@ -40,7 +40,7 @@ Command getCommand(char* prompt)
 
             comando.peca = textarg[0];
             
-            if(comando.peca=='X' || comando.peca!='O');
+            if(comando.peca=='X' || comando.peca!='O')
                 comando.isvalid = true;
 
             break;
